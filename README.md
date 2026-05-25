@@ -1,10 +1,10 @@
-<div align="center">
-  <a href="#-español">🇪🇸 Español</a> | <a href="#-english">🇬🇧 English</a>
+<div align="right">
+  <a href="https://github.com/DavidSiSx/DavidSisx/blob/main/README.en.md">
+    <img src="https://img.shields.io/badge/Translate-English-blue?style=for-the-badge&logo=google-translate&logoColor=white" alt="Translate to English" />
+  </a>
 </div>
 
----
-
-<h1 id="-español" align="center">¡Hola! Soy David Sierra 👋</h1>
+# ¡Hola! Soy David Sierra 👋
 
 <div align="center">
   <h3>💻 Desarrollador de Software Multiplataforma | Frontend Focus</h3>
@@ -55,7 +55,7 @@
 
 ---
 
-### 🚀 Proyectos Destacados (Español)
+### 🚀 Proyectos Destacados
 
 Aquí tienes un vistazo a mis proyectos más relevantes, los cuales reflejan mi capacidad de diseñar bases de datos robustas, estructurar APIs eficientes y crear interfaces fluidas:
 
@@ -78,65 +78,20 @@ Aquí tienes un vistazo a mis proyectos más relevantes, los cuales reflejan mi 
 
 ---
 
-<br>
-
----
-
-<h1 id="-english" align="center">Hi! I'm David Sierra 👋</h1>
+### 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <h3>💻 Multiplatform Software Developer | Frontend Focus</h3>
-  <p>Student at the Technological University of Cancún. Passionate about building solid and efficient digital experiences, combining software engineering, clean architecture, and intentional design.</p>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=DavidSiSx&show_icons=true&theme=tokyonight&locale=es&hide_border=true" alt="Estadísticas de DavidSiSx" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidSiSx&theme=tokyonight&hide_border=true" alt="Racha de Commits de DavidSiSx" />
 </div>
 
 ---
 
-### 💼 Recent Professional Experience
+### 📫 Conéctate Conmigo
 
-#### **Genotipo** | Cancún, Quintana Roo
-**Frontend Developer Intern** | *May 2025 – August 2025*
-
-*   **UI/UX Optimization & Maintenance**: Optimized and maintained user interfaces on existing web applications, resolving UI/UX issues and ensuring cross-device responsiveness using **Tailwind CSS** and **CodeIgniter (PHP)**.
-*   **Initial Frontend Architecture**: Structured the initial frontend architecture and developed core components for the "Arte Gasolineras" project, delivering scalable, modular, and type-safe code under professional standards.
-*   **Collaboration & AI Assist**: Collaborated in aligning technical requirements and validating deliverables with technical leadership, integrating AI-assisted tools to accelerate component development times.
-
----
-
-### 🚀 Selected Projects (English)
-
-Here is a look at my most relevant projects, reflecting my capability to design robust databases, structure efficient APIs, and create fluid interfaces:
-
-| Project | Description / Role | Key Technologies | Links |
-| :--- | :--- | :--- | :--- |
-| **Hexacore** | AI-powered competitive Pokémon tactics advisor. Features RAG metagame context injection, damage calculation engine, and VGC validator. | React 19, PostgreSQL, pgvector, Gemini API, Transformers.js | [💻 Code](https://github.com/DavidSiSx/hexacore) |
-| **Invitaciones XV** | Modular guest RSVP and table management platform featuring a NestJS API and 3 independent React frontend apps. | NestJS, TypeORM, MySQL, React, DTOs | [💻 Code](https://github.com/DavidSiSx/Sistema-InvitacionesXV) |
-| **Gestor Agrícola** | Agricultural IoT platform featuring Mapbox GL coordinates routing, telemetry data charts, and real-time database sync. | React, Mapbox GL, Chart.js, Firebase, Express, JWT, MySQL | [💻 Front](https://github.com/DavidSiSx/Front-Gestor-agricola-Terminado) <br> [💻 Back](https://github.com/DavidSiSx/Back-Gestor-agricola) |
-| **Zotz Barber** | Barbershop appointment scheduler and dynamic branch locator integrated with the Google Maps JavaScript SDK. | React, React Router v6, Google Maps API, CSS | [💻 Code](https://github.com/DavidSiSx/Zotz-Gestion-Para-Barberia) |
-| **AI Dashboard** | Educational data analytics single-page application built to parse local CSV datasets and output responsive charts. | Next.js 16, PapaParse, Recharts, Tailwind v4 | [💻 Code](https://github.com/DavidSiSx/DashboardImpactodeIAenAlumnos) |
-
----
-
-### 🎓 Education & Certifications
-
-*   **TSU in Multiplatform Software Development** | Technological University of Cancún *(2024 - Present)*
-*   **CCNA: Switching, Routing, and Wireless Essentials** | Cisco Networking Academy
-*   **Cisco JavaScript Essentials 1 & 2** | Cisco Networking Academy
-*   **English Proficiency**: TOEFL IBT Certification - B1 Level
-
----
-
-### 📊 Mis Estadísticas / My Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidSiSx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Estadísticas de DavidSiSx" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidSiSx&theme=tokyonight&hide_border=true" alt="GitHub Streak de DavidSiSx" />
-</div>
-
----
-
-### 📫 Conéctate Conmigo / Connect with Me
+Estoy abierto a oportunidades de residencia profesional, desarrollo de software full-stack o colaboraciones en proyectos de código abierto.
 
 *   💼 **LinkedIn:** [David Sierra Sosa](https://www.linkedin.com/in/david-sierra-sosa-522297356/)
 *   📧 **Email:** [davidsierrasosa01@gmail.com](mailto:davidsierrasosa01@gmail.com)
-*   🌐 **Portafolio:** [davidsisx.github.io/Portfolio](https://davidsisx.github.io/Portfolio/)
+*   🌐 **Portafolio Web:** [davidsisx.github.io/Portfolio](https://davidsisx.github.io/Portfolio/)
